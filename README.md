@@ -1,0 +1,2 @@
+# partal-DPO
+depo partali
